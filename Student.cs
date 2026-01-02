@@ -26,8 +26,8 @@ namespace User_Class
         }
         public int HighScore
         {
-            get { return HighScore; }
-            set { HighScore = value; }
+            get { return highScore; }
+            set { highScore = value; }
         }
         public int Rank
         {
